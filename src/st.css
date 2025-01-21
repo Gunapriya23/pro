@@ -1,0 +1,17 @@
+
+  .nav-container{
+    display: flex;
+    font-size: 27px;
+    gap: 20px;
+    color: black;
+    background-color: blueviolet;
+    align-items: center;
+    justify-content: space-around;
+    background: url("../public/img.jpg");
+    background-size: cover;
+  }
+  img{
+    margin: 0%;
+    width: 90%;
+    height: 90%;
+  }
